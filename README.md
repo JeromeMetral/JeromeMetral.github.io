@@ -60,7 +60,7 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 - Collaboration avec les services transverses (qualité, communication, innovation)
 
 ### 🙋 Jerome Metral EI 🙋 - Formateur - Facilitateur - Consultant (2023 – Aujourd’hui)
-- Formations de formateurs, Animation de groupes en intelligence collective (facilitation), Posture managériale, Pensée visuelle et Facilitation graphique
+- Formations de formateurs, Animation de groupes en intelligence collective, Posture managériale, Pensée visuelle et Facilitation graphique
 - Création et animation de séminaires et ateliers en intelligence collective 
 - Accompagnement au changement
 - Management de projet
