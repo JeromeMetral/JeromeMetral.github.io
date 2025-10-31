@@ -34,12 +34,21 @@ Mettre mon expérience de **manager pédagogique et stratège formation** au ser
 
 ## 💼 Expériences récentes
 
-### 🎓 **Groupe Sup de Vinci**
-**Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)**  
+### 🎓 **Sup de Vinci - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)**  
 - Pilotage national de la cohérence des offres de formation  
 - Management direct et transversal d’équipes pédagogiques  
 - Gestion des budgets et supervision qualité  
-- Collaboration avec les services transverses (qualité, communication, innovation)  
+- Collaboration avec les services transverses (qualité, communication, innovation)
+
+### 😁 **Jerome Metral EI - Formateur - Facilitateur - Consultant**  
+Formations :
+ - Formation de formateurs
+ - Animation de groupes en intelligence collective (facilitation)
+ - Animation de réunions
+ - Posture managériale
+ - Pensée Visuelle et Facilitation Graphique
+
+En intra ou inter-entreprises
 
 ### 💡 **Sens&co – Formateur, Facilitateur & Consultant (2019 – 2023)**  
 - Conception & animation de formations managériales et d’intelligence collective  
@@ -55,13 +64,13 @@ Mettre mon expérience de **manager pédagogique et stratège formation** au ser
 
 ## 🧾 Formation & Certifications
 
-🎯 BTS Informatique de Gestion (Développement d’Applications)  
-💬 Formation de Formateur – 2019  
-🌿 L’Élément Humain – 2020  
-🧩 Outils du Coaching – 2022  
-🎨 Design Graphique & WebMarketing – 2009  
-🔒 Certified Ethical Hacker – 2015  
+💬 Formation de Formateur
+🌿 L’Élément Humain 1&2
+🧩 Outils du Coaching 
+🎨 Design Graphique & WebMarketing
+🔒 Certified Ethical Hacker
 🧠 Facilitation graphique & intelligence collective  
+🎯 BTS Informatique de Gestion (Développement d’Applications)
 
 ---
 
@@ -74,6 +83,6 @@ Mettre mon expérience de **manager pédagogique et stratège formation** au ser
 
 ---
 
-> “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🌱  
+🌱 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🌱  
 
 ⭐ *Merci pour votre visite ! N’hésitez pas à me contacter pour échanger autour de la formation, du management ou de l’innovation pédagogique.*  
