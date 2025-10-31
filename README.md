@@ -69,8 +69,8 @@ En intra ou inter-entreprises
 🧩 Outils du Coaching 
 🎨 Design Graphique & WebMarketing
 🔒 Certified Ethical Hacker
-🧠 Facilitation graphique & intelligence collective  
-🎯 BTS Informatique de Gestion (Développement d’Applications)
+🧠 Facilitation graphique & intelligence collective
+🎯 BTS Informatique de Gestion (Développement d’Applications)  
 
 ---
 
