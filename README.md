@@ -53,13 +53,13 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ## 💼 Expériences récentes 💼
 
-### Sup de Vinci - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)
+### 💻 Sup de Vinci 💻 - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)
 - Pilotage national de la cohérence des offres de formation  
 - Management direct et transversal d’équipes pédagogiques  
 - Gestion des budgets et supervision qualité  
 - Collaboration avec les services transverses (qualité, communication, innovation)
 
-### Jerome Metral EI - Formateur - Facilitateur - Consultant (2023 – Aujourd’hui)
+### 🙋 Jerome Metral EI 🙋 - Formateur - Facilitateur - Consultant (2023 – Aujourd’hui)
 Formations :
 - Formation de formateurs
 - Animation de groupes en intelligence collective (facilitation)
@@ -69,17 +69,17 @@ Formations :
 
 En intra ou inter-entreprises
 
-### Sens&co – Formateur, Facilitateur & Consultant (2019 – 2023)
+### 👔 Sens&co 👔 – Formateur, Facilitateur & Consultant (2019 – 2023)
 - Conception & animation de formations managériales et d’intelligence collective  
 - Supervision de la mise en conformité **Qualiopi**  
 - Conseil & accompagnement d’organisations dans leurs projets pédagogiques  
 
-### Daunat – Responsable Transformation Numérique (2016 – 2018)
+### 🥪 Daunat 🥪 – Responsable Transformation Numérique (2016 – 2018)
 - Déploiement de nouvelles pratiques collaboratives  
 - Formation et accompagnement au changement  
 - Mise en place d’indicateurs et d’outils de pilotage  
 
-### Découvrez l'intégralité de mes expériences ici (en activité depuis 2001 !) :
+### 🪢 Découvrez l'intégralité de mes expériences ici 🪢 (en activité depuis 2001 !) :
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeromemetral/)  
 
 ---
