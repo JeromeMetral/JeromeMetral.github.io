@@ -31,7 +31,7 @@
 Je conçois, pilote et fais grandir des dispositifs de **formation** et des **équipes pédagogiques** à l’échelle nationale.  
 Aujourd’hui Référent Pédagogique Filière chez **Sup de Vinci**, j’allie management, stratégie, qualité et innovation pour rendre la formation toujours plus **cohérente, humaine et performante**.  
 
-💬 J’aime : accompagner les équipes, structurer des parcours qui ont du sens et animer des projets collectifs qui font bouger les lignes.  
+💜 J’aime : accompagner les équipes, structurer des parcours qui ont du sens et animer des projets collectifs qui font bouger les lignes.  
 🚀 J’apporte : une vision globale et stratégique, une vraie culture du terrain et un goût prononcé pour l’intelligence collective.
 
 ---
@@ -88,13 +88,13 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ## 🧾 Formation & Certifications 🧾
 
-💬 Formation de Formateur  
+🧑‍🏫 Formation de Formateur  
 🌿 L’Élément Humain 1&2  
 🧩 Outils du Coaching  
 🎨 Design Graphique & WebMarketing  
 🔒 Certified Ethical Hacker  
 🧠 Facilitation graphique & intelligence collective  
-🎯 BTS Informatique de Gestion (Développement d’Applications)  
+🖥️ BTS Informatique de Gestion (Développement d’Applications)  
 
 ---
 
