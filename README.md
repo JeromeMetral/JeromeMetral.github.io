@@ -9,13 +9,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2587A4&width=435&lines=Responsable+%26+R%C3%A9f%C3%A9rent+P%C3%A9dagogique;Manager+de+Projets;Conduite+du+Changement+)](https://www.linkedin.com/in/jeromemetral/)
 
-### 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement  
+### 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement 🎓 
 
-📍 Basé à **Noyal-Châtillon-sur-Seiche (35)**  
+📍 Basé à **Noyal-Châtillon-sur-Seiche (35)** 📍 
 
 ---
 
-## 📚 Table des matières
+## 📚 Table des matières 📚
 - [À propos](#-à-propos)
 - [Objectif professionnel](#-objectif-professionnel)
 - [Domaines d’expertise](#-domaines-dexpertise)
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧭 À propos
+## 🧭 À propos 🧭
 
 Je conçois, pilote et fais grandir des dispositifs de **formation** et des **équipes pédagogiques** à l’échelle nationale.  
 Aujourd’hui Référent Pédagogique Filière chez **Sup de Vinci**, j’allie management, stratégie, qualité et innovation pour rendre la formation toujours plus **cohérente, humaine et performante**.  
@@ -36,22 +36,22 @@ Aujourd’hui Référent Pédagogique Filière chez **Sup de Vinci**, j’allie 
 
 ---
 
-## 📍 Objectif professionnel
+## 🎯 Objectif professionnel 🎯
 
 Mettre mon expérience de **manager et référent formation** au service d’un groupe engagé dans le développement des compétences, la qualité et la progression collective.  
 
 ---
 
-## 🧩 Domaines d’expertise
+## 🧩 Domaines d’expertise 🧩
 
-| 🧠 Pédagogie | 📊 Stratégie | 👥 Management | 🔄 Changement | 🏆 Qualité |
+| 🧠 Pédagogie 🧠 | 📊 Stratégie 📊 | 👥 Management 👥 | 🔄 Changement 🔄 | 🏆 Qualité 🏆 |
 |---------------|--------------|---------------|----------------|-------------|
 | Pilotage pédagogique | Pilotage de l’offre formation | Management d’équipes pluridisciplinaires | Conduite du changement (Lean, Kaizen) | Certification Qualiopi |
-| Innovation éducative | Gestion budgétaire & indicateurs | Coordination multicampus | Facilitation & accompagnement | Amélioration continue |
+| Innovation éducative | Gestion budgétaire & indicateurs | Coordination multicampus | Facilitation, intelligence collective & accompagnement | Amélioration continue |
 
 ---
 
-## 💼 Expériences récentes
+## 💼 Expériences récentes 💼
 
 ### Sup de Vinci - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)
 - Pilotage national de la cohérence des offres de formation  
@@ -59,7 +59,7 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 - Gestion des budgets et supervision qualité  
 - Collaboration avec les services transverses (qualité, communication, innovation)
 
-### Jerome Metral EI - Formateur - Facilitateur - Consultant
+### Jerome Metral EI - Formateur - Facilitateur - Consultant (2023 – Aujourd’hui)
 Formations :
 - Formation de formateurs
 - Animation de groupes en intelligence collective (facilitation)
@@ -84,7 +84,7 @@ En intra ou inter-entreprises
 
 ---
 
-## 🧾 Formation & Certifications
+## 🧾 Formation & Certifications 🧾
 
 💬 Formation de Formateur  
 🌿 L’Élément Humain 1&2  
@@ -96,7 +96,7 @@ En intra ou inter-entreprises
 
 ---
 
-## 🌱 Soft Skills
+## 🌱 Soft Skills 🌱
 
 💡 Vision stratégique et sens du collectif  
 🗣️ Excellente communication & écoute active  
@@ -105,7 +105,7 @@ En intra ou inter-entreprises
 
 ---
 
-## ⭐ Le mot de la fin
+## ⭐⭐⭐ Le mot de la fin ⭐⭐⭐
 
 🌳 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🤝 
 
