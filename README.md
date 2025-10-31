@@ -7,15 +7,27 @@
  ╚════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝    ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 </pre>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2587A4&width=435&lines=Responsable+%26+R%C3%A9f%C3%A9rent+P%C3%A9dagogique;Manager+de+Projets;Conduite+du+Changement+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2587A4&width=435&lines=Responsable+%26+R%C3%A9f%C3%A9rent+P%C3%A9dagogique;Manager+de+Projets;Conduite+du+Changement+)](https://www.linkedin.com/in/jeromemetral/)
 
 ### 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement  
 
 📍 Basé à **Noyal-Châtillon-sur-Seiche (35)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeromemetral/)  
 
+---
+
+## 📚 Table des matières
+- [À propos](#-à-propos)
+- [Objectif professionnel](#-objectif-professionnel)
+- [Domaines d’expertise](#-domaines-dexpertise)
+- [Expériences récentes](#-expériences-récentes)
+  - [Sup de Vinci - Référent Pédagogique Filière & Responsable Pédagogique](#sup-de-vinci---référent-pédagogique-filière--responsable-pédagogique-2023--aujourd’hui)
+  - [Jerome Metral EI - Formateur - Facilitateur - Consultant](#jerome-metral-ei---formateur---facilitateur---consultant)
+  - [Sens&co – Formateur, Facilitateur & Consultant](#sensco-–-formateur-facilitateur--consultant-2019--2023)
+  - [Daunat – Responsable Transformation Numérique](#daunat-–-responsable-transformation-numérique-2016--2018)
+- [Formation & Certifications](#-formation--certifications)
+- [Soft Skills](#-soft-skills)
+- [Citation & Conclusion](#-citation--conclusion)
 
 ---
 
@@ -46,28 +58,28 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ## 💼 Expériences récentes
 
-### 🎓 **Sup de Vinci - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)**  
+### Sup de Vinci - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)
 - Pilotage national de la cohérence des offres de formation  
 - Management direct et transversal d’équipes pédagogiques  
 - Gestion des budgets et supervision qualité  
 - Collaboration avec les services transverses (qualité, communication, innovation)
 
-### 😁 **Jerome Metral EI - Formateur - Facilitateur - Consultant**  
+### Jerome Metral EI - Formateur - Facilitateur - Consultant
 Formations :
- - Formation de formateurs
- - Animation de groupes en intelligence collective (facilitation)
- - Animation de réunions
- - Posture managériale
- - Pensée Visuelle et Facilitation Graphique
+- Formation de formateurs
+- Animation de groupes en intelligence collective (facilitation)
+- Animation de réunions
+- Posture managériale
+- Pensée Visuelle et Facilitation Graphique
 
 En intra ou inter-entreprises
 
-### 💡 **Sens&co – Formateur, Facilitateur & Consultant (2019 – 2023)**  
+### Sens&co – Formateur, Facilitateur & Consultant (2019 – 2023)
 - Conception & animation de formations managériales et d’intelligence collective  
 - Supervision de la mise en conformité **Qualiopi**  
 - Conseil & accompagnement d’organisations dans leurs projets pédagogiques  
 
-### 🚀 **Daunat – Responsable Transformation Numérique (2016 – 2018)**  
+### Daunat – Responsable Transformation Numérique (2016 – 2018)
 - Déploiement de nouvelles pratiques collaboratives  
 - Formation et accompagnement au changement  
 - Mise en place d’indicateurs et d’outils de pilotage  
@@ -76,12 +88,12 @@ En intra ou inter-entreprises
 
 ## 🧾 Formation & Certifications
 
-💬 Formation de Formateur
-🌿 L’Élément Humain 1&2
-🧩 Outils du Coaching 
-🎨 Design Graphique & WebMarketing
-🔒 Certified Ethical Hacker
-🧠 Facilitation graphique & intelligence collective
+💬 Formation de Formateur  
+🌿 L’Élément Humain 1&2  
+🧩 Outils du Coaching  
+🎨 Design Graphique & WebMarketing  
+🔒 Certified Ethical Hacker  
+🧠 Facilitation graphique & intelligence collective  
 🎯 BTS Informatique de Gestion (Développement d’Applications)  
 
 ---
@@ -95,6 +107,8 @@ En intra ou inter-entreprises
 
 ---
 
-🌱 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🌱  
+## 🌱 Citation & Conclusion
+
+“Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.”  
 
 ⭐ *Merci pour votre visite ! N’hésitez pas à me contacter pour échanger autour de la formation, du management ou de l’innovation pédagogique.*  
