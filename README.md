@@ -103,8 +103,8 @@ En intra ou inter-entreprises
 
 ---
 
-## 🌱 Citation & Conclusion
+## ⭐ Citation & Conclusion
 
-“Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.”  
+🌳 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🤝 
 
 ⭐ *Merci pour votre visite ! N’hésitez pas à me contacter pour échanger autour de la formation, du management ou de l’innovation pédagogique.*  
