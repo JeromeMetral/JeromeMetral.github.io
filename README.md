@@ -1,5 +1,5 @@
 # 👋 Bonjour, moi c’est Jérôme
-### 🎓 Responsable & Référent Pédagogique National | Manager de Projets Formation | Conduite du Changement  
+### 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement  
 
 📍 Basé à **Noyal-Châtillon-sur-Seiche (35)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/jeromemetral/)  
