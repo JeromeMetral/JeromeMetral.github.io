@@ -13,13 +13,13 @@ Je conçois, pilote et fais grandir des dispositifs de **formation** et des **é
 Aujourd’hui Référent Pédagogique Filière chez **Sup de Vinci**, j’allie management, stratégie, qualité et innovation pour rendre la formation toujours plus **cohérente, humaine et performante**.  
 
 💬 J’aime : accompagner les équipes, structurer des parcours qui ont du sens et animer des projets collectifs qui font bouger les lignes.  
-🚀 J’apporte : une vision globale, une vraie culture du terrain et un goût prononcé pour l’intelligence collective.
+🚀 J’apporte : une vision globale et stratégique, une vraie culture du terrain et un goût prononcé pour l’intelligence collective.
 
 ---
 
 ## 📍 Objectif professionnel
 
-Mettre mon expérience de **manager pédagogique et stratège formation** au service d’un groupe engagé dans le développement des compétences, la qualité et la progression collective.  
+Mettre mon expérience de **manager et référent formation** au service d’un groupe engagé dans le développement des compétences, la qualité et la progression collective.  
 
 ---
 
