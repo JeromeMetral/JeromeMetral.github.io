@@ -12,7 +12,6 @@
 ### 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement  
 
 📍 Basé à **Noyal-Châtillon-sur-Seiche (35)**  
-🔗 [LinkedIn](https://www.linkedin.com/in/jeromemetral/)  
 
 ---
 
@@ -23,7 +22,7 @@
 - [Expériences récentes](#-expériences-récentes)
 - [Formation & Certifications](#-formation--certifications)
 - [Soft Skills](#-soft-skills)
-- [Citation & Conclusion](#-citation--conclusion)
+- [Le mot de la fin](#-le-mot-de-la-fin)
 
 ---
 
@@ -80,6 +79,9 @@ En intra ou inter-entreprises
 - Formation et accompagnement au changement  
 - Mise en place d’indicateurs et d’outils de pilotage  
 
+### Découvrez l'intégralité de mes expériences ici (en activité depuis 2001 !) :
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jeromemetral/)  
+
 ---
 
 ## 🧾 Formation & Certifications
@@ -103,7 +105,7 @@ En intra ou inter-entreprises
 
 ---
 
-## ⭐ Citation & Conclusion
+## ⭐ Le mot de la fin
 
 🌳 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🤝 
 
