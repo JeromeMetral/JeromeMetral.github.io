@@ -6,15 +6,14 @@
 ╚█████╔╝███████╗██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗    ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║██║  ██║███████╗
  ╚════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝    ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 </pre> -->
+## 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement 🎓 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2587A4&width=435&lines=Responsable+%26+R%C3%A9f%C3%A9rent+P%C3%A9dagogique;Manager+de+Projets;Conduite+du+Changement+)](https://www.linkedin.com/in/jeromemetral/)
-
-### 🎓 Responsable & Référent Pédagogique National | Manager de Projets | Conduite du Changement 🎓 
 
 📍 Basé à **Noyal-Châtillon-sur-Seiche (35)** 📍 
 
 ---
 
-## 📚 Table des matières 📚
+### 📚 Table des matières 📚
 - [À propos](#-à-propos)
 - [Objectif professionnel](#-objectif-professionnel)
 - [Domaines d’expertise](#-domaines-dexpertise)
@@ -25,7 +24,7 @@
 
 ---
 
-## 🧭 À propos 🧭
+### 🧭 À propos 🧭
 
 Je conçois, pilote et fais grandir des dispositifs de **formation** et des **équipes pédagogiques** à l’échelle nationale.  
 Aujourd’hui Référent Pédagogique Filière chez **Sup de Vinci**, j’allie management, stratégie, qualité et innovation pour rendre la formation toujours plus **cohérente, humaine et performante**.  
@@ -35,13 +34,13 @@ Aujourd’hui Référent Pédagogique Filière chez **Sup de Vinci**, j’allie 
 
 ---
 
-## 🎯 Objectif professionnel 🎯
+### 🎯 Objectif professionnel 🎯
 
 Mettre mon expérience de **manager et référent formation** au service d’un groupe engagé dans le développement des compétences, la qualité et la progression collective.  
 
 ---
 
-## 🧩 Domaines d’expertise 🧩
+### 🧩 Domaines d’expertise 🧩
 
 | 🧠 Pédagogie | 📊 Stratégie | 👥 Management | 🔄 Changement | 🏆 Qualité |
 |---------------|--------------|---------------|----------------|-------------|
@@ -50,36 +49,36 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ---
 
-## 💼 Expériences récentes 💼
+### 💼 Expériences récentes 💼
 
-### 💻 Sup de Vinci 💻 - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)
+#### 💻 Sup de Vinci 💻 - Référent Pédagogique Filière & Responsable Pédagogique (2023 – Aujourd’hui)
 - Pilotage national de la cohérence des offres de formation  
 - Management direct et transversal d’équipes pédagogiques  
 - Gestion des budgets et supervision qualité  
 - Collaboration avec les services transverses (qualité, communication, innovation)
 
-### 🙋 Jerome Metral EI 🙋 - Formateur - Facilitateur - Consultant (2023 – Aujourd’hui)
+#### 🙋 Jerome Metral EI 🙋 - Formateur - Facilitateur - Consultant (2023 – Aujourd’hui)
 - Formations de formateurs, Animation de groupes en intelligence collective, Posture managériale, Pensée visuelle et Facilitation graphique
 - Création et animation de séminaires et ateliers en intelligence collective 
 - Accompagnement au changement
 - Management de projet
 
-### 👔 Sens&co 👔 – Formateur, Facilitateur & Consultant (2019 – 2023)
+#### 👔 Sens&co 👔 – Formateur, Facilitateur & Consultant (2019 – 2023)
 - Conception & animation de formations managériales et d’intelligence collective  
 - Supervision de la mise en conformité **Qualiopi**  
 - Conseil & accompagnement d’organisations dans leurs projets pédagogiques  
 
-### 🥪 Daunat 🥪 – Responsable Transformation Numérique (2016 – 2018)
+#### 🥪 Daunat 🥪 – Responsable Transformation Numérique (2016 – 2018)
 - Déploiement de nouvelles pratiques collaboratives  
 - Formation et accompagnement au changement  
 - Mise en place d’indicateurs et d’outils de pilotage  
 
-### 🪢 Découvrez l'intégralité de mes expériences ici 🪢 (en activité depuis 2001 !) :
+#### 🪢 Découvrez l'intégralité de mes expériences ici 🪢 (en activité depuis 2001 !) :
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jeromemetral/)  
 
 ---
 
-## 🧾 Formation & Certifications 🧾
+### 🧾 Formation & Certifications 🧾
 
 🧑‍🏫 Formation de Formateur  
 🌿 L’Élément Humain 1&2  
@@ -91,7 +90,7 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ---
 
-## 🌱 Soft Skills 🌱
+### 🌱 Soft Skills 🌱
 
 💡 Vision stratégique et sens du collectif  
 🗣️ Excellente communication & écoute active  
@@ -100,7 +99,7 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ---
 
-## ⭐⭐⭐ Le mot de la fin ⭐⭐⭐
+### ⭐⭐⭐ Le mot de la fin ⭐⭐⭐
 
 >🌳 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 
 
