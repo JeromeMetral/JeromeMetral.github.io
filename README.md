@@ -44,7 +44,7 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ## 🧩 Domaines d’expertise 🧩
 
-| 🧠 Pédagogie 🧠 | 📊 Stratégie 📊 | 👥 Management 👥 | 🔄 Changement 🔄 | 🏆 Qualité 🏆 |
+| 🧠 Pédagogie | 📊 Stratégie | 👥 Management | 🔄 Changement | 🏆 Qualité |
 |---------------|--------------|---------------|----------------|-------------|
 | Pilotage pédagogique | Pilotage de l’offre formation | Management d’équipes pluridisciplinaires | Conduite du changement (Lean, Kaizen) | Certification Qualiopi |
 | Innovation éducative | Gestion budgétaire & indicateurs | Coordination multicampus | Facilitation, intelligence collective & accompagnement | Amélioration continue |
