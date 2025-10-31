@@ -109,6 +109,6 @@ Mettre mon expérience de **manager et référent formation** au service d’un 
 
 ## ⭐⭐⭐ Le mot de la fin ⭐⭐⭐
 
-🌳 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” 🤝 
+>🌳 “Former, c’est faire grandir. Manager, c’est donner envie d’avancer ensemble.” :couple: 
 
 ⭐ *Merci pour votre visite ! N’hésitez pas à me contacter pour échanger autour de la formation, du management ou de l’innovation pédagogique.*  
